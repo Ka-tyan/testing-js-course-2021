@@ -1,0 +1,18 @@
+{
+  "name": "homework01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "removedValues.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Katerina <kat.evsejeva@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
